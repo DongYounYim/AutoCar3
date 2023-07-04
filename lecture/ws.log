@@ -1,0 +1,58 @@
+INFO:Thread-5
+	Server is ready to accept
+INFO:Thread-7
+	Server is ready to accept
+INFO:Thread-7
+	[IN]  CONNECTION: ('172.30.1.28', 8889)
+INFO:Thread-7
+	Server is ready to accept
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-8
+	[IN]  TEXT: ('172.30.1.28', 8889) - 'j,0,0'
+INFO:Thread-9
+	Server is ready to accept
+INFO:Thread-9
+	[IN]  CONNECTION: ('172.30.1.28', 8890)
+INFO:Thread-9
+	Server is ready to accept
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'
+INFO:Thread-10
+	[IN]  TEXT: ('172.30.1.28', 8890) - 'j,0,0'

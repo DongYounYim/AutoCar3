@@ -1,0 +1,6 @@
+INFO:MainThread
+	Created a socket
+INFO:Thread-2
+	Server is ready to accept
+INFO:Thread-3
+	Server is ready to accept
