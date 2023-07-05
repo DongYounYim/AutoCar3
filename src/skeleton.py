@@ -31,7 +31,7 @@ meta_file = "./yolov4-tiny-settings/obj.names"
 YOLO_net = cv2.dnn.readNet(weight_file, config_file)
 
 classes = []
-with open("./yolov4-tiny-settings/obj.names", "r") as f:
+with open(meta_file, "r") as f:
     classes = [line.strip() for line in f.readlines()]
 layer_names = YOLO_net.getLayerNames()
 output_layers = [layer_names[i[0] - 1] for i in YOLO_net.getUnconnectedOutLayers()]
