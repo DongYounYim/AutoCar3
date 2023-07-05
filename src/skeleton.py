@@ -380,11 +380,6 @@ def obstacle_drive():
     global detect, cam
     
     drive_mode = 3
-    lidar = LiDAR.Rplidar()
-    lidar.connect()
-    lidar.startMotor()
-    
-    drv.forward(30)
     
     # ====================================
     # TODO: 좁은 길 장애물 주행을 합니다.
